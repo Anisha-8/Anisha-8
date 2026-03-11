@@ -8,18 +8,35 @@
 
 ## 🙋‍♀️ About Me
 
-- 🎓 MCA Final Year @ PESITM  
-- 💻 Learning **C# and .NET Development**  
-- 🔧 Interested in **Web APIs and Software Development**  
-- 🌱 Currently improving my **problem solving skills**
+👋 I'm **Anisha Sharon**, currently pursuing **MCA at PESITM**.  
 
-## 🌐 Connect with Me
+🔎 Open to opportunities in the tech field  
 
-[LinkedIn](https://linkedin.com/in/yourprofile)
+👩‍💻 Interested in **C# | .NET | APIs | Web Development**  
 
-[Instagram](https://instagram.com/yourusername)
+🌱 Always learning and improving my development skills  
 
-Email: anishasharon00@gmail.com
+⚡ Passionate about building useful software and exploring new technologies  
+
+---
+
+## 🌐 Socials
+
+<p align="center">
+
+<a href="mailto:anishasharon00@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://instagram.com/YOUR_INSTAGRAM">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+</p>
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Anisha-8&show_icons=true&theme=tokyonight)
 
