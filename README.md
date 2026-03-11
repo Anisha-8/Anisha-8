@@ -5,6 +5,7 @@
 </p>
 
 ## 🙋‍♀️ About Me
+<p align="center">
 
 👋 I'm **Anisha Sharon**, currently pursuing **MCA at PESITM**.  
 
@@ -16,7 +17,7 @@
 
 ⚡ Passionate about building useful software and exploring new technologies  
 
----
+</p>
 
 ## 🌐 Socials
 
@@ -39,6 +40,7 @@
 
 
 ## 💻 Tech Stack
+<p align="center">
 
 ### 👨‍💻 Languages
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
@@ -79,7 +81,7 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 
----
+</p>
 
 ## 📊 GitHub Stats
 
