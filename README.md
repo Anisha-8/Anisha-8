@@ -4,7 +4,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00695C&center=true&vCenter=true&width=700&lines=Hi+there👋;I'm+Anisha+Sharon;Web+Development+Enthusiast" />
 </p>
 
-<h2 align="center">About Me</h2>
+<h1 align="center">About Me</h1>
 
 <p align="center">
 I'm Anisha Sharon, currently pursuing my MCA at PESITM.
@@ -27,7 +27,7 @@ Passionate about building software and exploring new technologies.
 </p>
 
 
-<h2 align="center">Socials</h2>
+<h1 align="center">Socials</h1>
 
 <p align="center">
 
@@ -45,23 +45,20 @@ Passionate about building software and exploring new technologies.
 
 </p>
 
-<h2 align="center">Tech Stacks</h2>
+<h1 align="center">Tech Stacks</h1>
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=cs,dotnet,python,react,html,css,js,bootstrap,django,fastapi,mysql,mongodb,sqlite,git,github,azure,postman,c,java" />
 </p>
 
 
-<h2 align="center">Github Stats</h2>
+<h1 align="center">Github Stats</h1>
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Anisha-8&show_icons=true&theme=tokyonight" height="165">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anisha-8&theme=tokyonight" height="165">
 </p>
 
-
-
-
-
+<div>
 <h2 align="center">Thank you!</h2>
-
+</div>
