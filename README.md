@@ -45,14 +45,14 @@ Passionate about building software and exploring new technologies.
 
 </p>
 
-## Tech Stack
+<h2 align="center">Tech Stacks</h2>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=cs,dotnet,python,react,html,css,js,bootstrap,django,fastapi,mysql,mongodb,sqlite,git,github,azure,postman,jira,perplexity,google gemini" />
+<img src="https://skillicons.dev/icons?i=cs,dotnet,python,react,html,css,js,bootstrap,django,fastapi,mysql,mongodb,sqlite,git,github,azure,postman,jira" />
 </p>
 
 
-## GitHub Stats
+<h2 align="center">Github Stats</h2>
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Anisha-8&show_icons=true&theme=tokyonight" height="165">
@@ -60,7 +60,7 @@ Passionate about building software and exploring new technologies.
 </p>
 
 
-## GitHub Streak
+<h2 align="center">Github Streaks</h2>
 
 <p align="center">
 
