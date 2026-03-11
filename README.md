@@ -4,16 +4,17 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Hi+there👋;I'm+Anisha+Sharon;Web+Development+Enthusiast" />
 </p>
 
-## 🙋‍♀️ About Me
+<h2 align="center">🙋‍♀️ About Me</h2>
+
 <p align="center">
 
-👋 I'm **Anisha Sharon**, currently pursuing **MCA at PESITM**.  
+👋 I'm <b>Anisha Sharon</b>, currently pursuing <b>MCA at PESITM</b>. <br><br>
 
-🔎 Open to opportunities in the tech field  
+🔎 Open to opportunities in the tech field <br><br>
 
-👩‍💻 Interested in **C# | .NET | APIs | Web Development**  
+👩‍💻 Interested in <b>C# | .NET | APIs | Web Development</b> <br><br>
 
-🌱 Always learning and improving my development skills  
+🌱 Always learning and improving my development skills <br><br>
 
 ⚡ Passionate about building useful software and exploring new technologies  
 
@@ -39,8 +40,8 @@
 
 
 
-## 💻 Tech Stack
-<p align="center">
+<h2 align="center">💻 Tech Stack</h2>
+<div align="center">
 
 ### 👨‍💻 Languages
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
@@ -81,7 +82,7 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 
-</p>
+</div>
 
 ## 📊 GitHub Stats
 
