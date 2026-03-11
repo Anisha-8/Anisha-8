@@ -7,11 +7,11 @@
 <h2 align="center">About Me</h2>
 
 <p align="center">
-👋 I'm Anisha Sharon, currently pursuing my MCA at PESITM.
+I'm Anisha Sharon, currently pursuing my MCA at PESITM.
 </p>
 
 <p align="center">
-🔎 Open to new opportunities in the tech world.
+Open to new opportunities in the tech world.
 </p>
 
 <p align="center">
@@ -19,11 +19,11 @@
 </p>
 
 <p align="center">
-🌱 Always learning and expanding my skills.
+Always learning and expanding my skills.
 </p>
 
 <p align="center">
-💻 Passionate about building software and exploring new technologies.
+Passionate about building software and exploring new technologies.
 </p>
 
 
