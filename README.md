@@ -4,7 +4,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Hi+there👋;I'm+Anisha+Sharon;Web+Development+Enthusiast" />
 </p>
 
-<h2 align="center">🙋‍♀️ About Me</h2>
+<h2 align="center">About Me</h2>
 
 <p align="center">
 
@@ -20,7 +20,8 @@
 
 </p>
 
-## 🌐 Socials
+<h2 align="center">Socials</h2>
+
 
 <p align="center">
 
@@ -40,7 +41,7 @@
 
 
 
-<h2 align="center">Tech STtack</h2>
+<h2 align="center">Tech Stack</h2>
 
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![ASP.NET](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
