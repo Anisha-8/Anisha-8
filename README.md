@@ -63,10 +63,5 @@ Passionate about building software and exploring new technologies.
 
 
 
-## 📌 Featured Projects
-
-🔹 Student Management System – ASP.NET Web API  
-🔹 Movie Recommendation System – Python  
-🔹 Personal Portfolio Website – React  
-
+<h2 align="center">Thank you!</h2>
 
