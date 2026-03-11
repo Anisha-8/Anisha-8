@@ -47,7 +47,7 @@ Passionate about building software and exploring new technologies.
 
 ## 🚀 Tech Stack
 <p align="center">
-<img src="https://skillicons.dev/icons?i=cs,dotnet,python,react,html,css,js,bootstrap,django,fastapi,mysql,mongodb,sqlite,git,github,azure,postman" />
+<img src="https://skillicons.dev/icons?i=cs,c#,dotnet,python,react,html,css,js,bootstrap,django,fastapi,mysql,mongodb,sqlite,git,github,azure,postman,restapi,swagger,asp.net,react,jira" />
 </p>
 
 <h2 align="center">Tech Stack</h2>
@@ -82,11 +82,8 @@ Passionate about building software and exploring new technologies.
 ## 📊 GitHub Stats
 
 <p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Anisha-8&show_icons=true&theme=tokyonight"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anisha-8&layout=compact&theme=tokyonight"/>
-
+<img src="https://github-readme-stats.vercel.app/api?username=Anisha-8&show_icons=true&theme=tokyonight" height="165">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anisha-8&layout=compact&theme=tokyonight" height="165">
 </p>
 
 ## 🔥 GitHub Streak
