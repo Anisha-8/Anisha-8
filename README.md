@@ -45,22 +45,21 @@ Passionate about building software and exploring new technologies.
 
 </p>
 
-## 🚀 Tech Stack
+## Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=cs,dotnet,python,react,html,css,js,bootstrap" /><br>
-<img src="https://skillicons.dev/icons?i=django,fastapi,mysql,mongodb,sqlite,git,github,azure,postman,jira" /></p>
+<img src="https://skillicons.dev/icons?i=cs,dotnet,python,react,html,css,js,bootstrap,django,fastapi,mysql,mongodb,sqlite,git,github,azure,postman,jira" />
+</p>
 
 
-
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Anisha-8&show_icons=true&theme=tokyonight" height="165">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anisha-8&layout=compact&theme=tokyonight" height="165">
 </p>
 
-## 🔥 GitHub Streak
+## GitHub Streak
 
 <p align="center">
 
@@ -68,7 +67,7 @@ Passionate about building software and exploring new technologies.
 
 </p>
 
-## 🐍 Contribution Graph
+## Contribution Graph
 
 ![snake gif](https://github.com/YOUR_USERNAME/Anisha-8/blob/output/github-contribution-grid-snake.svg)
 
