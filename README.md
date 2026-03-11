@@ -67,6 +67,19 @@ Passionate about building software and exploring new technologies.
 
 </p>
 
+## 🐍 Contribution Snake
+![GitHub Snake](https://github.com/Anisha-8/YOUR_GITHUB_USERNAME/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+## 🏆 GitHub Trophies
+![trophy](https://github-profile-trophy.vercel.app/?username=Anisha-8&theme=radical&no-frame=true&no-bg=true&margin-w=10)
+
+---
+
+## 📊 GitHub Activity Graph
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Anisha-8&theme=react-dark&area=true)
+
 ## Contribution Graph
 
 ![snake gif](https://github.com/YOUR_USERNAME/Anisha-8/blob/output/github-contribution-grid-snake.svg)
