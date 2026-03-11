@@ -1,10 +1,8 @@
 <img width="4072" height="2280" alt="overview" src="https://github.com/user-attachments/assets/5fb39005-a994-478f-8c84-ac55535f0d54" />
 
-# Hi 👋 I'm Anisha Sharon
-
-🎓 MCA Final Year Student  
-💻 C# | .NET | Web APIs | Web Development  
-🚀 Passionate about building software and learning new technologies
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Hi+there👋;I'm+Anisha+Sharon;C%23+%7C+.NET+Developer;Web+Development+Enthusiast;Always+Learning+New+Technologies" />
+</p>
 
 ## 🙋‍♀️ About Me
 
