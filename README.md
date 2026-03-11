@@ -7,21 +7,27 @@
 <h2 align="center">About Me</h2>
 
 <p align="center">
-
-👋 I'm <b>Anisha Sharon</b>, currently pursuing <b>MCA at PESITM</b>. <br><br>
-
-🔎 Open to opportunities in the tech field <br><br>
-
-👩‍💻 Interested in <b>C# | .NET | APIs | Web Development</b> <br><br>
-
-🌱 Always learning and improving my development skills <br><br>
-
-⚡ Passionate about building useful software and exploring new technologies  
-
+👋 I'm Anisha Sharon, currently pursuing my MCA at PESITM.
 </p>
 
-<h2 align="center">Socials</h2>
+<p align="center">
+🔎 Open to new opportunities in the tech world.
+</p>
 
+<p align="center">
+🤝 Looking to collaborate on projects involving Web Development and .NET.
+</p>
+
+<p align="center">
+🌱 Always learning and expanding my skills.
+</p>
+
+<p align="center">
+💻 Passionate about building software and exploring new technologies.
+</p>
+
+
+<h2 align="center">Socials</h2>
 
 <p align="center">
 
