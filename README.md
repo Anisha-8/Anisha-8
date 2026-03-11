@@ -47,7 +47,7 @@ Passionate about building software and exploring new technologies.
 
 ## 🚀 Tech Stack
 <p align="center">
-<img src="https://skillicons.dev/icons?i=cs,c#,dotnet,python,react,html,css,js,bootstrap,django,fastapi,mysql,mongodb,sqlite,git,github,azure,postman,restapi,swagger,asp.net,react,jira" />
+<img src="https://skillicons.dev/icons?i=cs,dotnet,python,react,html,css,js,bootstrap,django,fastapi,mysql,mongodb,sqlite,git,github,azure,postman,restapi,swagger,asp.net,react,jira" />
 </p>
 
 <h2 align="center">Tech Stack</h2>
