@@ -69,14 +69,40 @@ Passionate about building software and exploring new technologies.
 ![Azure DevOps](https://img.shields.io/badge/AzureDevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Swagger](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![REST APIs](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Docker](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![MVC](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Versel](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 
 
 ## 📊 GitHub Stats
 
-![Anisha's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anisha-8&show_icons=true&theme=tokyonight)
+<p align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Anisha-8&layout=compact&theme=tokyonight)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ahnisha-8E&show_icons=true&theme=tokyonight"/>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Anisha-8&theme=tokyonight)
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anisha-8&layout=compact&theme=tokyonight"/>
+
+</p>
+
+## 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Anisha-8&theme=tokyonight"/>
+
+</p>
+
+## 🐍 Contribution Graph
+
+![snake gif](https://github.com/YOUR_USERNAME/Anisha-8/blob/output/github-contribution-grid-snake.svg)
+
+
+## 📌 Featured Projects
+
+🔹 Student Management System – ASP.NET Web API  
+🔹 Movie Recommendation System – Python  
+🔹 Personal Portfolio Website – React  
 
 
