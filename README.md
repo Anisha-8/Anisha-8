@@ -45,6 +45,7 @@ Passionate about building software and exploring new technologies.
 
 </p>
 
+
 <h1 align="center">Tech Stacks</h1>
 
 <p align="center">
@@ -59,6 +60,6 @@ Passionate about building software and exploring new technologies.
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anisha-8&theme=tokyonight" height="165">
 </p>
 
-<div>
+
 <h2 align="center">Thank you!</h2>
-</div>
+
