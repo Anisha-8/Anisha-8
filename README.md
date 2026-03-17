@@ -15,7 +15,7 @@ Open to new opportunities in the tech world.
 </p>
 
 <p align="center">
- Looking to collaborate on projects involving Web Development and .NET. 🤝
+ Looking to collaborate on projects involving Web Development and .NET 🤝
 </p>
 
 <p align="center">
