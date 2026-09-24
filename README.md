@@ -7,7 +7,7 @@
 <h1 align="center">About Me</h1>
 
 <p align="center">
-I'm Anisha Sharon, currently pursuing my MCA at PESITM.
+I'm Anisha Sharon, Currently working as a Full Stack Developer.
 </p>
 
 <p align="center">
